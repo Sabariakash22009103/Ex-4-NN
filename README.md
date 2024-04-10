@@ -157,7 +157,7 @@ print(classification_report(y_test,predictions))
 ```
 <H3>Output:</H3>
 
-![output](image.png)
+![output](/WhatsApp%20Image%202024-04-10%20at%2015.40.31_76f1c488.jpg)
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
